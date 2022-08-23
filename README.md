@@ -1,3 +1,7 @@
+# THIS APPLICATION HAS CYPRESS INTEGRATED WITH IT, TO EASILY ENABLE ONE TEST WHILE RUNNING THE APPLICATION.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
